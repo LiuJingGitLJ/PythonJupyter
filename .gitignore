@@ -9,17 +9,11 @@ TensorFlow/CVSSD/SSD-Tensorflow-master/checkpoints/VGG_VOC0712_SSD_300x300_iter_
 TensorFlow/CVSSD/SSD-Tensorflow-master/checkpoints/ssd_300_vgg.ckpt.data-00000-of-00001
 TensorFlow/CVSSD/SSD-Tensorflow-master/logs2/model.ckpt.data-00000-of-00001
 TensorFlow/CVSSD/SSD-Tensorflow-master/logs2/events.out.tfevents.1535096465.liujingdeMacBook-Pro.local
-TensorFlow/test3/MNIST_data/t10k-images-idx3-ubyte.gz
-TensorFlow/test3/MNIST_data/t10k-labels-idx1-ubyte.gz
-TensorFlow/test3/MNIST_data/train-images-idx3-ubyte.gz
 TensorFlow/test3/keras_tensorflow_log/events.out.tfevents.1535596846.liujingdeMacBook-Pro.local
-TensorFlow/test3/MNIST_data/train-labels-idx1-ubyte.gz
 TensorFlow/test2/tfrecord/
 TensorFlow/test3/keras_tensorflow_log/events.out.tfevents.1535596846.liujingdeMacBook-Pro.local
 TensorFlow/test3/keras_tensorflow_log/events.out.tfevents.1535596846.liujingdeMacBook-Pro.local
 AICV09/
-TensorFlow/
-python05/
 *.jpg
 *.zip
 *.tfrecord
