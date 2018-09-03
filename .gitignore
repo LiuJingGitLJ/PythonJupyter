@@ -1,6 +1,4 @@
 
-Python0801/recommendation_system_codes/playlist.detail.all.tar.gz
-Python0801/recommendation_system_codes/song2vec.model
 TensorFlow/CVSSD/SSD-Tensorflow-master/logs/model.ckpt.data-00000-of-00001
 TensorFlow/CVSSD/SSD-Tensorflow-master/logs/events.out.tfevents.1535002021.liujingdeMacBook-Pro.local
 TensorFlow/CVSSD/SSD-Tensorflow-master/logs/events.out.tfevents.1534993927.liujingdeMacBook-Pro.local
@@ -10,7 +8,6 @@ TensorFlow/CVSSD/SSD-Tensorflow-master/checkpoints/ssd_300_vgg.ckpt.data-00000-o
 TensorFlow/CVSSD/SSD-Tensorflow-master/logs2/model.ckpt.data-00000-of-00001
 TensorFlow/CVSSD/SSD-Tensorflow-master/logs2/events.out.tfevents.1535096465.liujingdeMacBook-Pro.local
 TensorFlow/test3/keras_tensorflow_log/events.out.tfevents.1535596846.liujingdeMacBook-Pro.local
-TensorFlow/test2/tfrecord/
 TensorFlow/test3/keras_tensorflow_log/events.out.tfevents.1535596846.liujingdeMacBook-Pro.local
 TensorFlow/test3/keras_tensorflow_log/events.out.tfevents.1535596846.liujingdeMacBook-Pro.local
 AICV09/
@@ -28,7 +25,6 @@ AICV09/
 *.gz
 *.local
 *.tfrecord
-*.mov
 *.liujingdeMacBook-Pro.local
 *.local
 *.jpeg
